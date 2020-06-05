@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f517a7d1-be5a-48e8-8988-3852e4a32f2b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aGb8ciyqT3MovyenndoOwu8JBE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/_media" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\fernando\Desktop\projeto-glass-html5\_media" />
+      <recent name="C:\Users\fernando\Desktop\projeto-glass-html5\_css" />
+      <recent name="C:\Users\fernando\Desktop\projeto-glass-html5" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
+    <configuration name="Javasc02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projeto-glass-html5/_css/Javasc02.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/projeto-glass-html5/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="teste.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/_javascript/teste.js" working-dir="$PROJECT_DIR$/_javascript">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="Node.js.teste.js" />
+        <item itemvalue="JavaScript Debug.Javasc02.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f517a7d1-be5a-48e8-8988-3852e4a32f2b" name="Default Changelist" comment="" />
+      <created>1586364719658</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586364719658</updated>
+      <workItem from="1586364721159" duration="5567000" />
+      <workItem from="1586468708107" duration="3913000" />
+      <workItem from="1586545041422" duration="7358000" />
+      <workItem from="1586639798865" duration="5561000" />
+      <workItem from="1586717658775" duration="8035000" />
+      <workItem from="1586831227894" duration="2619000" />
+      <workItem from="1586880998190" duration="6433000" />
+      <workItem from="1586969889294" duration="8877000" />
+      <workItem from="1587055798603" duration="8964000" />
+      <workItem from="1587140211064" duration="10535000" />
+      <workItem from="1587241167073" duration="6555000" />
+      <workItem from="1587328456331" duration="10700000" />
+      <workItem from="1587364836203" duration="50000" />
+      <workItem from="1587401126518" duration="9478000" />
+      <workItem from="1587492902702" duration="13304000" />
+      <workItem from="1587573000408" duration="3710000" />
+      <workItem from="1587601684953" duration="8954000" />
+      <workItem from="1587693789220" duration="7114000" />
+      <workItem from="1587746698781" duration="5233000" />
+      <workItem from="1587833575083" duration="1843000" />
+      <workItem from="1587862742334" duration="2122000" />
+      <workItem from="1587918008750" duration="14731000" />
+      <workItem from="1588005340729" duration="11592000" />
+      <workItem from="1588092907386" duration="8988000" />
+      <workItem from="1588182169526" duration="5625000" />
+      <workItem from="1588199726307" duration="7273000" />
+      <workItem from="1588304506157" duration="5629000" />
+      <workItem from="1588353761071" duration="1943000" />
+      <workItem from="1588385368745" duration="795000" />
+      <workItem from="1588451223664" duration="10595000" />
+      <workItem from="1588554903959" duration="265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="408" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1587939090504">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="408" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1587939090504" />
+    <state width="855" height="242" key="GridCell.Tab.0.bottom" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.0.center" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.0.left" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.0.right" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.1.bottom" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.1.center" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.1.left" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.1.right" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.2.bottom" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.2.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+    <state width="855" height="242" key="GridCell.Tab.2.center" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.2.center/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.2.left" timestamp="1586578045468">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.2.left/0.0.1536.824@0.0.1536.824" timestamp="1586578045468" />
+    <state width="855" height="242" key="GridCell.Tab.2.right" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.2.right/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+    <state width="855" height="242" key="GridCell.Tab.3.bottom" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.3.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+    <state width="855" height="242" key="GridCell.Tab.3.center" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.3.center/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+    <state width="855" height="242" key="GridCell.Tab.3.left" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.3.left/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+    <state width="855" height="242" key="GridCell.Tab.3.right" timestamp="1586578045469">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="855" height="242" key="GridCell.Tab.3.right/0.0.1536.824@0.0.1536.824" timestamp="1586578045469" />
+  </component>
+</project>
